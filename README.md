@@ -28,31 +28,12 @@
 
 ---
 
-## 🌟 **GitHub Stats**
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-verma&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-verma&layout=compact&theme=radical)  
+## **Details**
 
----
-
-## 📣 **How to Reach Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  
-
----
-
-## 🌟 **GitHub Stats**
-![Ankit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankit-verma&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit-verma&layout=compact&theme=radical)  
-
----
-
-## 📣 **How to Reach Me**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com)  
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@gmail.com)  
-
----
-
-## ⚡ **Fun Fact**  
-*"Common sense is not so common!"* 😂  
-
----
+- 🔭 I’m currently working on: **Inventory Sales Analysis**  
+- 🌱 I’m currently learning: **ML/DL**  
+- 👯 I’m looking to collaborate on: **Open Source Project**  
+- 🤔 I’m looking for help with: **Getting a job in Data Analytics**  
+- 💬 Ask me about: **Chess** ![Chess](https://img.shields.io/badge/-Chess-000000?logo=chess-dot-com&logoColor=white)  
+- 📫 How to reach me: **LinkedIn, Gmail**  
+- ⚡ Fun fact: **Common sense is not so common 😂**
