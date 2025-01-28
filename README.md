@@ -4,6 +4,7 @@
                           Currently learning to walk in Data Science 📊 without falling on my bottom.  
                           🌟 Open to collaborating on **interesting and innovative projects!**
 
+---
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
