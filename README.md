@@ -2,9 +2,9 @@
 
                                               Welcome to my GitHub! 🚀  
                           Currently learning to walk in Data Science 📊 without falling on my bottom.  
-                          🌟 Open to collaborating on **interesting and innovative projects!**
+                             🌟 Open to collaborating on **interesting and innovative projects!**
 
---
+
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
@@ -27,7 +27,6 @@
 ### **Office Tools**
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white) ![Google Docs](https://img.shields.io/badge/-Google_Docs-4285F4?logo=google-docs&logoColor=white)
 
---
 
 ## **Details**
 
