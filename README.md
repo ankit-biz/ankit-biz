@@ -1,8 +1,8 @@
 # Hi there, I'm Ankit Verma! 👋  
 
-Welcome to my GitHub! 🚀  
-Currently learning to walk in Data Science 📊 without falling on my bottom.  
-🌟 Open to collaborating on **interesting and innovative projects!**
+                                              Welcome to my GitHub! 🚀  
+                          Currently learning to walk in Data Science 📊 without falling on my bottom.  
+                          🌟 Open to collaborating on **interesting and innovative projects!**
 
 ---
 
