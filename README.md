@@ -6,13 +6,13 @@
         Currently learning to walk in Data Science 📊 without falling on my bottom.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
-    <a href="https://avishek-choudhary.github.io/portfolio.html">    
+    <a href="##">    
         <img src="https://img.shields.io/badge/Portfolio-black?style=flat-square&logo=rss" alt="Portfolio">
     </a>
-    <a href="https://www.linkedin.com/in/avishek-choudhary">
+    <a href="##">
         <img src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin&logoColor=blue" alt="LinkedIn">
     </a>
-    <a href="https://www.kaggle.com/avishekc09">
+    <a href="##">
         <img src="https://img.shields.io/badge/Kaggle-black?style=flat-square&logo=kaggle" alt="Kaggle">
     </a><br>
       <!--<img src="https://komarev.com/ghpvc/?username=avishek09 &label=Profile%20views&color=0e75b6&style=flat" alt="Avishek'sProfileViews">-->
@@ -72,7 +72,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankit-biz&theme=transparent" />
   </a>
     </br>
-  <a href="https://github.com/avishek-choudhary">
+  <a href="https://github.com/ankit-biz">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ankit-biz&show_icons=true&layout=donut&langs_count=8&html_color=orange&sql_color=blue&hide=&theme=transparent&hide_border=true&card_width=338&size_weight=0.5&count_weight=0.5" />
   </a>
 </p>
@@ -83,7 +83,7 @@
 - 👯 I’m looking to collaborate on: <b><i>Open Source Project</i></b>
 - 🤔 I’m looking for help with getting a job in <b><i>Data Analytics</i></b>
 - 💬 Ask me about Chess 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/ankit-biz">
+- 📫 How to reach me: <a href="##">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
 - ⚡ Fun fact: <strong><i>Common sense is not so common</i></strong> 😂
 
