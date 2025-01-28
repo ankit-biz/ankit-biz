@@ -4,14 +4,6 @@
                           Currently learning to walk in Data Science 📊 without falling on my bottom.  
                           🌟 Open to collaborating on **interesting and innovative projects!**
 
----
-
-## 📊 **What I'm Working On**  
-- 🔭 **Zoom EV Sales Analysis**  
-- 🌱 Diving deep into **Machine Learning (ML)** and **Deep Learning (DL)**  
-- 💯 Collaborating on exciting **Open Source Projects**  
-
----
 
 ## 🛠️ **Tech Stack**
 
@@ -62,6 +54,14 @@
 ![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)  
 ![Google Docs](https://img.shields.io/badge/-Google_Docs-4285F4?logo=google-docs&logoColor=white)  
 
+---
+
+## 📊 **What I'm Working On**  
+- 🔭 **Zoom EV Sales Analysis**  
+- 🌱 Diving deep into **Machine Learning (ML)** and **Deep Learning (DL)**  
+- 💯 Collaborating on exciting **Open Source Projects**  
+
+---
 ---
 
 ## 🌟 **GitHub Stats**
