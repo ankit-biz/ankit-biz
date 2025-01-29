@@ -46,7 +46,7 @@
 [![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://github.com/ankit-biz)
 
 ### Office Tools
-[![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/](https://github.com/ankit-biz)
+[![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)]
 [![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/Google_Docs-black?style=for-the-badge&logo=google--docs)](https://github.com/ankit-biz)
 [![GOOGLE SHEETS](https://img.shields.io/badge/Google_Sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/ankit-biz)
 
