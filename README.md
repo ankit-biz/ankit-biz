@@ -19,45 +19,45 @@
 </p>
 
 ### Languages
-[![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/avishek09)
-[![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/avishek09)
-[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/avishek09)
+[![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/ankit-biz)
+[![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/ankit-biz)
+[![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/ankit-biz)
 
 ### Technologies & Frameworks
-[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/avishek09)
-[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/avishek09)
+[![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)](https://github.com/ankit-biz)
+[![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)](https://github.com/ankit-biz)
 
 ### Databases
-[![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/avishek09)
-[![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/avishek09)
+[![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)](https://github.com/ankit-biz)
+[![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)](https://github.com/ankit-biz)
 
 ### Visualization
-[![POWER BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)](https://github.com/avishek09)
-[![TABLEAU](https://custom-icon-badges.demolab.com/badge/Tableau-black?style=for-the-badge&logo=tableaulogo)](https://github.com/avishek09)
+[![POWER BI](https://img.shields.io/badge/Power_BI-black?style=for-the-badge&logo=powerbi)](https://github.com/ankit-biz)
+[![TABLEAU](https://custom-icon-badges.demolab.com/badge/Tableau-black?style=for-the-badge&logo=tableaulogo)](https://github.com/ankit-biz)
 
 ### Design
-[![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/avishek09)
-[![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/avishek09)
+[![ADOBE PHOTOSHOP](https://img.shields.io/badge/Adobe_Photoshop-black?style=for-the-badge&logo=Adobe%20Photoshop)](https://github.com/ankit-biz)
+[![CANVA](https://img.shields.io/badge/Canva-black?&style=for-the-badge&logo=Canva)](https://github.com/ankit-biz)
 
 ### IDEs/Editors
-[![VS CODE](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/avishek09)
-[![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/avishek09)
-[![GOOGLE COLAB](https://img.shields.io/badge/Google_Colab-black?&style=for-the-badge&logo=Google-Colab)](https://github.com/avishek09)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+[![VS CODE](https://img.shields.io/badge/VS_Code-black?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue)](https://github.com/ankit-biz)
+[![JUPYTER NOTEBOOK](https://img.shields.io/badge/Jupyter-black?&style=for-the-badge&logo=Jupyter)](https://github.com/ankit-biz)
+[![GOOGLE COLAB](https://img.shields.io/badge/Google_Colab-black?&style=for-the-badge&logo=Google-Colab)](https://github.com/ankit-biz)
+[![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)](https://github.com/ankit-biz)
 
 ### Office Tools
-[![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/avishek09)
-[![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/Google_Docs-black?style=for-the-badge&logo=google--docs)](https://github.com/avishek09)
-[![GOOGLE SHEETS](https://img.shields.io/badge/Google_Sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/avishek09)
+[![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/](https://github.com/ankit-biz)
+[![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/Google_Docs-black?style=for-the-badge&logo=google--docs)](https://github.com/ankit-biz)
+[![GOOGLE SHEETS](https://img.shields.io/badge/Google_Sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/ankit-biz)
 
 <!--### Education
-[![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/avishek09)
-[![FREE CODE CAMP](https://img.shields.io/badge/free_Code_Camp-black?style=for-the-badge&logo=freecodecamp)](https://github.com/avishek09)
-[![KHAN ACADEMY](https://img.shields.io/badge/Khan_Academy-black?style=for-the-badge&logo=khanacademy)](https://github.com/avishek09)
-[![UDEMY](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy)](https://github.com/avishek09)
-[![DATA CAMP](https://img.shields.io/badge/data_camp-black?style=for-the-badge&logo=datacamp)](https://github.com/avishek09)
-[![HACKERRANK](https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank)](https://github.com/avishek09)
-[![SOLO LEARN](https://img.shields.io/badge/Sololearn-black?style=for-the-badge&logo=sololearn)](https://github.com/avishek09)-->
+[![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/ankit-biz)
+[![FREE CODE CAMP](https://img.shields.io/badge/free_Code_Camp-black?style=for-the-badge&logo=freecodecamp)](https://github.com/ankit-biz)
+[![KHAN ACADEMY](https://img.shields.io/badge/Khan_Academy-black?style=for-the-badge&logo=khanacademy)](https://github.com/ankit-biz)
+[![UDEMY](https://img.shields.io/badge/Udemy-black?style=for-the-badge&logo=udemy)](https://github.com/ankit-biz)
+[![DATA CAMP](https://img.shields.io/badge/data_camp-black?style=for-the-badge&logo=datacamp)](https://github.com/ankit-biz)
+[![HACKERRANK](https://img.shields.io/badge/Hackerrank-black?style=for-the-badge&logo=hackerrank)](https://github.com/ankit-biz)
+[![SOLO LEARN](https://img.shields.io/badge/Sololearn-black?style=for-the-badge&logo=sololearn)](https://github.com/ankit-biz)-->
 
 <details>
 <p align="center">
