@@ -18,6 +18,8 @@
       <!--<img src="https://komarev.com/ghpvc/?username=avishek09 &label=Profile%20views&color=0e75b6&style=flat" alt="Avishek'sProfileViews">-->
 </p>
 
+---
+
 ### Languages
 [![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/ankit-biz)
 [![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/ankit-biz)
@@ -49,6 +51,8 @@
 [![MICROSOFT OFFICE](https://img.shields.io/badge/Microsoft_Office-black?style=for-the-badge&logo=microsoft%20office&logoColor=ff8000)](https://github.com/ankit-biz)
 [![GOOGLE DOCS](https://custom-icon-badges.demolab.com/badge/Google_Docs-black?style=for-the-badge&logo=google--docs)](https://github.com/ankit-biz)
 [![GOOGLE SHEETS](https://img.shields.io/badge/Google_Sheets-black?style=for-the-badge&logo=google%20sheets)](https://github.com/ankit-biz)
+
+---
 
 <!--### Education
 [![COURSERA](https://img.shields.io/badge/Coursera-black?style=for-the-badge&logo=Coursera&logoColor=blue)](https://github.com/ankit-biz)
