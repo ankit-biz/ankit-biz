@@ -22,7 +22,6 @@
 
 ### Languages
 [![PYTHON](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)](https://github.com/ankit-biz)
-[![JAVA](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk)](https://github.com/ankit-biz)
 [![SQL](https://custom-icon-badges.demolab.com/badge/SQL-black?style=for-the-badge&logo=database)](https://github.com/ankit-biz)
 
 ### Technologies & Frameworks
